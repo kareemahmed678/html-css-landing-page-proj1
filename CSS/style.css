@@ -61,10 +61,10 @@ body{
 .menu a:hover::after{
     width: 100%;
     transition: 0.5s;
-    height: 2px;
 }
 
 .submenu{
+    display: none;
     background-color: white;
     width: 110px;
     height: auto;
@@ -73,8 +73,7 @@ body{
     margin-left: 80px;
     margin-top: 15px;
     border-radius: 10px;
-    position: relative;
-    visibility: hidden;
+    position: absolute;
 }
 
 .submenu a{
@@ -82,6 +81,10 @@ body{
     margin-bottom: 10px;
     color: blue;
     text-align: center;
+}
+
+.menu li:hover .submenu{
+    display: block;
 }
 
 .i1{
