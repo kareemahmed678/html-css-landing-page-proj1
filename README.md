@@ -27,7 +27,7 @@
 ➡️ **[Live Demo](https://kareemahmed678.github.io/html-css-landing-page-proj1/)** 
 
 🤝 Contributing
-Pull requests are welcome! For major changes, open an issue first
+Pull requests are welcome! For major changes, open an issue first.
 
 📜 License
 MIT © Kareem Ahmed | All rights reserved.
