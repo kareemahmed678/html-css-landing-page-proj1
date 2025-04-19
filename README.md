@@ -26,6 +26,14 @@
  
 ➡️ **[Live Demo](https://kareemahmed678.github.io/html-css-landing-page-proj1/)** 
 
+🚀 Before Viewing the Live Demo
+1) If the site looks outdated or broken:
+- Hard Refresh your browser (Windows/Linux: Ctrl + F5 and Mac: Cmd + Shift + R)
+2) Clear cache (quick guide).
+3) Try incognito mode to bypass cached files.
+
+Still issues? Wait 5 mins (GitHub Pages deploys can delay) or report it here.
+
 🤝 Contributing
 Pull requests are welcome! For major changes, open an issue first.
 
