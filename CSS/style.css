@@ -681,7 +681,7 @@ body{
     background-color: black;
     opacity: 0;
     border-radius: 15px;
-    
+    z-index: 1;  
 }
 
 .team-item:hover::after{
@@ -708,9 +708,9 @@ body{
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: black ;
     opacity: 0.5;
     visibility: hidden; 
+    z-index: 2;
 }
 
 .team-item:hover .team-icons{
@@ -725,6 +725,7 @@ body{
     height: 45px;
     margin-left: auto;
     line-height: 45px;
+    cursor: pointer;
 }
 
 .team-info-title{
