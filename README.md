@@ -7,7 +7,7 @@
 - **Future Improvements**: 
   - Better responsiveness with media queries (currently optimized for desktop).
   - Better design (currently limited due to the requirements of my 1st project)
-  - Semantic HTML5 tags such as <header>, <section>, etc. (currently uses `<div>`-based structure).
+  - Semantic HTML5 tags such as `<header>`, `<section>`, etc. (currently uses `<div>`-based structure).
   - Add CSS3 features (variables, transitions)
 - **CSS Styling**: Custom fonts, colors, and basic hover effects.
 
