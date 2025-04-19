@@ -38,6 +38,7 @@ body{
 .menu li{
     display: inline;
     margin-left: 25px;  
+    position: relative;
 }
 
 .menu a{
@@ -63,6 +64,15 @@ body{
     transition: 0.5s;
 }
 
+.menu li::after{
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    height: 15px;
+    bottom: -15px;
+}
+
 .submenu{
     display: none;
     background-color: white;
@@ -71,7 +81,7 @@ body{
     color: black;
     padding: 20px 20px 10px 20px;
     margin-left: 80px;
-    margin-top: 15px;
+    margin-top: 10px;
     border-radius: 10px;
     position: absolute;
 }
