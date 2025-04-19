@@ -17,10 +17,11 @@
 
 ## 📁 Files
 - index.html # Main HTML file
-- CSS
+- CSS/
   - style.css # Stylesheet
-  - all.css # Stylesheet
-- Images # All images
+  - all.css # For the use of fontawesome v5
+- Images/ # All images
+- webfonts/ # For the use of fontawesome v5
 - README.md
  
 ➡️ **[Live Demo](https://kareemahmed678.github.io/html-css-landing-page-proj1/)** 
