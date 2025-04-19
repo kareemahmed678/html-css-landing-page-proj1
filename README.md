@@ -16,12 +16,12 @@
 - **CSS**: Basic styling without CSS3 variables or advanced features.
 
 ## 📁 Files
-├── index.html # Main HTML file
-├── assets/
-│ ├── CSS/style.css # Stylesheet
-│ ├── CSS/all.css # Stylesheet
-│ └── Images/ # All images
-└── README.md
+- index.html # Main HTML file
+- CSS
+    style.css # Stylesheet
+    all.css # Stylesheet
+- Images # All images
+- README.md
  
 ➡️ **[Live Demo](https://kareemahmed678.github.io/html-css-landing-page-proj1/)** 
 
