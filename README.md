@@ -18,8 +18,8 @@
 ## 📁 Files
 - index.html # Main HTML file
 - CSS
-    style.css # Stylesheet
-    all.css # Stylesheet
+  - style.css # Stylesheet
+  - all.css # Stylesheet
 - Images # All images
 - README.md
  
